@@ -68,7 +68,7 @@ var deployments = [
     }
     sku: {
       name: 'GlobalStandard'
-      capacity: 40
+      capacity: 8
     }
   }
   {
